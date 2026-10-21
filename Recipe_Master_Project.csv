@@ -1,0 +1,201 @@
+Recipe_ID,Recipe_Name,Creation_Timestamp,Cooking_Time,Ingredients,Quantity,Price,Calories,Fat,Carbohydrates,Protein,Cholesterol,Fiber,Rating,Number of Reviews
+1,Classic Pancakes,02-07-2023 00:38,15 mins,"Flour, Milk, Egg, Butter, Syrup",2 servings,$7.50,350 kcal,12g,45g,8g,60mg,2g,4.7,512
+2,Garden Omelet,07-04-2024 01:08,10 mins,"Eggs, Bell Peppers, Spinach, Cheese",1 serving,$8.00,280 kcal,20g,4g,18g,370mg,2g,4.5,234
+3,French Toast,22-12-2023 17:59,15 mins,"Bread, Cinnamon, Egg, Vanilla, Milk",2 servings,$9.00,410 kcal,18g,52g,10g,110mg,3g,4.6,189
+4,Breakfast Burrito,18-10-2023 22:45,15 mins,"Tortilla, Eggs, Chorizo, Beans, Cheese",1 serving,$10.50,580 kcal,32g,44g,28g,210mg,6g,4.8,421
+5,Overnight Oats,17-03-2023 19:48,5 mins,"Oats, Chia Seeds, Almond Milk, Berries",1 serving,$6.00,290 kcal,7g,48g,10g,0mg,9g,4.4,156
+6,Eggs Benedict,17-03-2023 19:31,25 mins,"English Muffin, Poached Eggs, Ham, Hollandaise",2 servings,$14.00,620 kcal,42g,28g,24g,420mg,1g,4.9,312
+7,Belgian Waffles,29-01-2023 05:29,20 mins,"Flour, Pearl Sugar, Butter, Whipped Cream",2 servings,$11.00,540 kcal,28g,62g,8g,85mg,2g,4.7,276
+8,Smoked Salmon Bagel,25-02-2024 23:05,10 mins,"Bagel, Cream Cheese, Salmon, Capers",1 serving,$13.00,420 kcal,18g,38g,22g,55mg,3g,4.8,198
+9,Shakshuka,20-10-2023 03:24,30 mins,"Eggs, Tomato Sauce, Peppers, Feta",2 servings,$12.00,340 kcal,22g,18g,16g,375mg,5g,4.7,342
+10,Fruit & Yogurt Parfait,11-12-2023 02:58,5 mins,"Greek Yogurt, Granola, Honey, Mixed Fruit",1 serving,$7.50,310 kcal,6g,52g,15g,15mg,5g,4.5,123
+11,Tomato Basil Soup,15-05-2023 14:20,30 mins,"Tomatoes, Basil, Cream, Garlic, Onion",4 servings,$9.00,210 kcal,14g,22g,4g,30mg,4g,4.3,88
+12,Grilled Cheese Sandwich,02-08-2023 11:15,10 mins,"Sourdough, Cheddar, Gruyere, Butter",1 serving,$8.50,480 kcal,32g,36g,16g,65mg,2g,4.6,456
+13,Chicken Caesar Wrap,10-01-2024 13:45,15 mins,"Chicken, Romaine, Parmesan, Caesar Dressing",1 serving,$11.00,510 kcal,28g,34g,32g,85mg,4g,4.5,210
+14,Quinoa Salad,22-06-2023 17:30,15 mins,"Quinoa, Cucumber, Feta, Lemon, Parsley",2 servings,$10.00,320 kcal,12g,42g,12g,15mg,7g,4.4,145
+15,Minestrone,14-11-2023 19:05,45 mins,"Beans, Pasta, Carrots, Celery, Broth",4 servings,$11.50,240 kcal,4g,38g,10g,0mg,9g,4.2,92
+16,BLT Sandwich,01-03-2024 12:20,10 mins,"Bacon, Lettuce, Tomato, Mayo, Toast",1 serving,$9.50,440 kcal,28g,32g,14g,55mg,3g,4.6,178
+17,Tuna Salad,28-02-2023 10:45,10 mins,"Tuna, Mayo, Celery, Red Onion, Lettuce",2 servings,$10.50,290 kcal,18g,8g,26g,45mg,2g,4.3,134
+18,Cobb Salad,18-09-2023 13:12,20 mins,"Chicken, Egg, Bacon, Avocado, Blue Cheese",1 serving,$14.50,580 kcal,42g,12g,36g,285mg,6g,4.7,289
+19,Beef Sliders,05-12-2023 18:55,20 mins,"Ground Beef, Brioche, Pickles, Onions",3 servings,$13.50,610 kcal,36g,32g,34g,115mg,2g,4.6,156
+20,Caprese Panini,12-04-2024 11:40,15 mins,"Focaccia, Tomato, Mozzarella, Pesto",1 serving,$11.00,490 kcal,26g,44g,18g,45mg,3g,4.8,203
+21,Spaghetti Bolognese,20-04-2023 19:20,45 mins,"Pasta, Ground Beef, Marinara, Onion",4 servings,$16.00,550 kcal,22g,62g,28g,75mg,5g,4.8,612
+22,Chicken Alfredo,15-07-2023 20:10,30 mins,"Fettuccine, Chicken, Cream, Parmesan",2 servings,$18.00,820 kcal,48g,58g,42g,165mg,3g,4.7,489
+23,Beef Stir Fry,10-02-2024 18:30,20 mins,"Sirloin, Broccoli, Soy Sauce, Peppers",2 servings,$17.50,410 kcal,18g,24g,38g,95mg,4g,4.6,321
+24,Vegetable Lasagna,12-01-2023 17:45,75 mins,"Ricotta, Spinach, Zucchini, Marinara",6 servings,$20.00,380 kcal,16g,42g,20g,40mg,6g,4.5,215
+25,Salmon with Asparagus,28-08-2023 19:15,20 mins,"Salmon Fillet, Asparagus, Lemon, Butter",1 serving,$22.00,420 kcal,26g,6g,36g,105mg,4g,4.9,287
+26,Chicken Tikka Masala,05-10-2023 20:00,50 mins,"Chicken, Tomato, Cream, Ginger, Spices",3 servings,$19.00,540 kcal,32g,22g,38g,110mg,3g,4.9,567
+27,Fish and Chips,22-03-2024 13:20,30 mins,"Cod, Potatoes, Flour, Tartar Sauce",2 servings,$17.00,720 kcal,38g,64g,28g,85mg,4g,4.4,245
+28,Beef Tacos,02-05-2023 18:40,25 mins,"Ground Beef, Shells, Lettuce, Cheese, Salsa",3 servings,$14.00,510 kcal,28g,36g,24g,80mg,5g,4.6,312
+29,Shrimp Scampi,20-11-2023 19:50,20 mins,"Shrimp, Linguine, Lemon, Garlic, Butter",2 servings,$21.00,480 kcal,22g,44g,32g,215mg,2g,4.7,189
+30,Pork Chops with Apples,30-01-2024 18:15,30 mins,"Pork, Apple, Cinnamon, Butter",2 servings,$18.50,450 kcal,24g,28g,34g,95mg,4g,4.5,134
+31,Eggplant Parmesan,15-03-2023 17:30,60 mins,"Eggplant, Mozzarella, Marinara, Breadcrumbs",4 servings,$15.50,390 kcal,22g,38g,15g,45mg,8g,4.4,98
+32,Pad Thai,02-09-2023 19:10,30 mins,"Rice Noodles, Tofu, Peanuts, Bean Sprouts",2 servings,$15.00,560 kcal,20g,72g,18g,0mg,5g,4.7,267
+33,Roast Beef,18-12-2023 14:00,120 mins,"Beef Chuck, Carrots, Potatoes, Rosemary",6 servings,$35.00,640 kcal,34g,38g,46g,145mg,6g,4.8,178
+34,Chicken Pot Pie,05-04-2024 17:45,60 mins,"Chicken, Peas, Carrots, Pastry Shell",4 servings,$16.50,580 kcal,34g,45g,28g,95mg,4g,4.5,154
+35,Lamb Curry,12-02-2023 19:30,90 mins,"Lamb, Coconut Milk, Onion, Turmeric",4 servings,$24.00,610 kcal,38g,18g,42g,125mg,4g,4.7,112
+36,Mushroom Risotto,02-07-2023 18:50,45 mins,"Arborio Rice, Mushrooms, Broth, Wine",3 servings,$18.00,420 kcal,18g,54g,10g,25mg,3g,4.6,143
+37,Chicken Quesadilla,25-10-2023 12:30,15 mins,"Tortilla, Chicken, Cheese, Peppers",1 serving,$11.00,510 kcal,28g,36g,32g,95mg,2g,4.6,378
+38,Beef Burger,15-02-2024 13:15,20 mins,"Beef, Brioche, Lettuce, Tomato, Mayo",1 serving,$12.50,680 kcal,44g,38g,34g,120mg,2g,4.5,512
+39,Baked Cod,05-04-2023 18:20,20 mins,"Cod, Breadcrumbs, Lemon, Parsley",2 servings,$19.00,310 kcal,12g,24g,28g,75mg,1g,4.4,87
+40,Turkey Meatloaf,15-08-2023 17:50,60 mins,"Turkey, Oats, Ketchup, Onion, Garlic",4 servings,$15.00,340 kcal,14g,28g,32g,85mg,3g,4.3,126
+41,Shepherd's Pie,02-11-2023 18:40,50 mins,"Ground Lamb, Potatoes, Peas, Carrots",4 servings,$18.00,510 kcal,28g,38g,30g,95mg,6g,4.6,198
+42,Chicken Stir Fry,12-01-2024 19:10,20 mins,"Chicken, Broccoli, Soy Sauce, Cashews",2 servings,$16.00,420 kcal,18g,18g,44g,105mg,4g,4.7,245
+43,Chili Con Carne,18-05-2023 15:30,90 mins,"Beef, Kidney Beans, Tomatoes, Onions",6 servings,$17.00,450 kcal,18g,42g,34g,85mg,12g,4.7,312
+44,Vegetable Curry,22-09-2023 18:25,40 mins,"Chickpeas, Potato, Cauliflower, Coconut Milk",4 servings,$14.50,320 kcal,14g,44g,12g,0mg,10g,4.5,167
+45,Honey Glazed Salmon,28-12-2023 19:40,20 mins,"Salmon, Honey, Soy Sauce, Ginger",2 servings,$23.00,460 kcal,24g,18g,36g,105mg,1g,4.8,289
+46,BBQ Ribs,20-04-2024 14:00,180 mins,"Pork Ribs, BBQ Sauce, Brown Sugar",3 servings,$28.00,890 kcal,54g,48g,52g,185mg,1g,4.9,412
+47,Lentil Stew,25-02-2023 17:15,45 mins,"Lentils, Carrots, Celery, Thyme",4 servings,$10.00,280 kcal,4g,42g,18g,0mg,14g,4.4,134
+48,Chicken Enchiladas,15-06-2023 18:50,50 mins,"Chicken, Tortilla, Red Sauce, Cheese",4 servings,$17.50,540 kcal,30g,42g,32g,95mg,5g,4.6,223
+49,Beef Stroganoff,30-10-2023 19:30,40 mins,"Beef, Mushrooms, Sour Cream, Egg Noodles",4 servings,$20.00,620 kcal,38g,48g,36g,135mg,3g,4.7,189
+50,Ratatouille,05-02-2024 16:45,60 mins,"Eggplant, Zucchini, Tomato, Peppers",4 servings,$14.00,190 kcal,8g,26g,6g,0mg,9g,4.4,112
+51,Baked Ziti,28-01-2023 18:10,45 mins,"Ziti, Marinara, Ricotta, Mozzarella",6 servings,$16.00,480 kcal,22g,54g,24g,55mg,4g,4.5,256
+52,Kung Pao Chicken,12-08-2023 19:40,30 mins,"Chicken, Peanuts, Chili, Bell Peppers",3 servings,$17.00,490 kcal,26g,24g,38g,105mg,3g,4.6,187
+53,Miso Ramen,22-11-2023 13:20,20 mins,"Ramen, Miso, Egg, Tofu, Scallion",1 serving,$13.00,420 kcal,14g,58g,18g,185mg,4g,4.7,234
+54,Crab Cakes,05-03-2024 17:50,30 mins,"Crab Meat, Mayo, Old Bay, Breadcrumbs",2 servings,$25.00,380 kcal,24g,16g,28g,155mg,2g,4.8,145
+55,Stuffed Peppers,15-05-2023 18:30,50 mins,"Bell Peppers, Rice, Beef, Tomato",4 servings,$16.50,340 kcal,16g,28g,24g,75mg,7g,4.4,167
+56,Tofu Scramble,10-10-2023 09:15,15 mins,"Tofu, Turmeric, Nutritional Yeast, Spinach",1 serving,$9.00,210 kcal,12g,8g,18g,0mg,5g,4.3,89
+57,Chicken Marsala,25-01-2024 19:05,40 mins,"Chicken, Mushrooms, Marsala Wine, Butter",2 servings,$19.00,510 kcal,28g,14g,42g,115mg,2g,4.6,132
+58,Pulled Pork Sandwich,05-02-2023 08:30,480 mins,"Pork Shoulder, BBQ Sauce, Buns",8 servings,$30.00,680 kcal,36g,52g,42g,135mg,2g,4.8,312
+59,Greek Gyros,22-07-2023 13:40,20 mins,"Lamb, Pita, Tzatziki, Red Onion",2 servings,$15.00,590 kcal,32g,46g,34g,95mg,3g,4.7,276
+60,Falafel Wrap,05-11-2023 12:15,15 mins,"Falafel, Hummus, Cucumber, Pita",1 serving,$10.50,440 kcal,20g,52g,14g,0mg,9g,4.5,198
+61,Lobster Roll,28-02-2024 13:50,20 mins,"Lobster, Mayo, Butter, Brioche",1 serving,$28.00,560 kcal,34g,32g,32g,195mg,1g,4.9,212
+62,Paella,18-04-2023 17:25,60 mins,"Rice, Saffron, Shrimp, Mussels, Chicken",4 servings,$32.00,620 kcal,24g,68g,38g,175mg,5g,4.8,187
+63,Beef Burrito,30-08-2023 19:05,20 mins,"Beef, Rice, Beans, Cheese, Salsa",1 serving,$12.00,740 kcal,34g,76g,38g,105mg,10g,4.6,345
+64,Chicken Piccata,12-12-2023 18:45,25 mins,"Chicken, Capers, Lemon, White Wine",2 servings,$18.00,410 kcal,22g,12g,38g,115mg,1g,4.7,156
+65,Calamari,15-03-2024 17:30,20 mins,"Squid, Flour, Lemon, Marinara",2 servings,$16.00,430 kcal,24g,34g,26g,245mg,2g,4.4,123
+66,Bibimbap,02-06-2023 19:15,45 mins,"Rice, Beef, Egg, Gochujang, Spinach",1 serving,$16.50,580 kcal,24g,68g,28g,195mg,6g,4.8,245
+67,Butter Chicken,22-10-2023 20:05,50 mins,"Chicken, Butter, Cream, Tomato, Spices",3 servings,$20.00,620 kcal,42g,18g,36g,135mg,2g,4.9,412
+68,Steak Frites,10-01-2024 19:40,30 mins,"Ribeye, Potato, Garlic Butter",1 serving,$28.00,820 kcal,52g,44g,48g,165mg,4g,4.8,278
+69,Gnocchi with Pesto,28-03-2023 18:55,20 mins,"Gnocchi, Basil, Pine Nuts, Parmesan",2 servings,$14.50,510 kcal,28g,54g,12g,25mg,4g,4.5,167
+70,Clam Chowder,12-09-2023 14:10,40 mins,"Clams, Potatoes, Cream, Celery",4 servings,$15.00,450 kcal,32g,26g,18g,125mg,2g,4.6,145
+71,Duck L'Orange,28-11-2023 17:45,90 mins,"Duck Breast, Orange, Honey, Ginger",2 servings,$35.00,680 kcal,46g,26g,42g,155mg,1g,4.8,92
+72,Zucchini Noodle Pesto,15-02-2024 12:25,15 mins,"Zucchini, Pesto, Cherry Tomatoes",1 serving,$12.00,240 kcal,18g,14g,6g,0mg,5g,4.3,87
+73,Banh Mi,05-01-2023 13:15,15 mins,"Pork, Baguette, Pickled Carrots, Mayo",1 serving,$11.00,540 kcal,26g,58g,24g,75mg,4g,4.7,215
+74,Mussels in Garlic Wine,18-08-2023 19:35,20 mins,"Mussels, Garlic, White Wine, Parsley",2 servings,$19.00,320 kcal,16g,12g,34g,145mg,0g,4.7,134
+75,Stuffed Shells,02-12-2023 18:20,50 mins,"Pasta Shells, Ricotta, Marinara, Cheese",4 servings,$15.50,480 kcal,22g,52g,24g,65mg,4g,4.5,178
+76,Korean Fried Chicken,10-04-2024 19:55,40 mins,"Chicken Wings, Gochujang, Soy Sauce",2 servings,$17.00,710 kcal,42g,54g,34g,135mg,1g,4.8,312
+77,Lentil Dal,15-02-2023 17:40,35 mins,"Red Lentils, Turmeric, Cumin, Coconut",4 servings,$11.00,290 kcal,12g,42g,15g,0mg,12g,4.6,156
+78,Beef Wellington,25-06-2023 15:30,120 mins,"Beef, Puff Pastry, Mushroom Duxelles",4 servings,$55.00,920 kcal,62g,45g,56g,195mg,3g,4.9,112
+79,Poke Bowl,15-10-2023 13:10,15 mins,"Ahi Tuna, Rice, Edamame, Avocado",1 serving,$19.00,490 kcal,16g,62g,34g,55mg,8g,4.9,267
+80,Broccoli Cheddar Soup,05-01-2024 14:25,30 mins,"Broccoli, Cheddar, Milk, Onion",4 servings,$12.50,360 kcal,26g,18g,16g,75mg,4g,4.4,234
+81,French Onion Soup,02-03-2023 17:50,90 mins,"Onions, Beef Broth, Gruyere, Bread",4 servings,$13.00,380 kcal,20g,32g,15g,55mg,5g,4.7,189
+82,Ceviche,25-09-2023 12:45,20 mins,"White Fish, Lime, Cilantro, Red Onion",2 servings,$18.50,220 kcal,4g,12g,32g,65mg,2g,4.8,145
+83,Turkey Club,01-12-2023 13:30,15 mins,"Turkey, Bacon, Lettuce, Tomato, Mayo",1 serving,$11.50,510 kcal,28g,38g,34g,85mg,3g,4.5,210
+84,Egg Drop Soup,10-03-2024 18:15,15 mins,"Eggs, Chicken Broth, Cornstarch",2 servings,$8.00,150 kcal,7g,14g,10g,185mg,1g,4.2,112
+85,Pork Schnitzel,12-05-2023 19:20,30 mins,"Pork Loin, Breadcrumbs, Lemon, Egg",2 servings,$17.00,540 kcal,32g,36g,38g,115mg,2g,4.6,134
+86,Spinach Artichoke Dip,15-11-2023 16:40,25 mins,"Spinach, Artichokes, Cream Cheese",6 servings,$14.00,260 kcal,20g,14g,8g,55mg,4g,4.7,321
+87,Fried Rice,22-02-2024 19:10,15 mins,"Rice, Peas, Carrots, Egg, Soy Sauce",2 servings,$10.00,340 kcal,10g,56g,12g,95mg,3g,4.3,389
+88,General Tso Chicken,18-01-2023 19:50,35 mins,"Chicken, Cornstarch, Sugar, Chili",2 servings,$16.50,640 kcal,30g,58g,34g,115mg,2g,4.4,245
+89,Hummus & Pita,05-08-2023 12:35,10 mins,"Chickpeas, Tahini, Olive Oil, Garlic",2 servings,$9.00,410 kcal,22g,48g,14g,0mg,11g,4.5,156
+90,Baked Scallops,15-12-2023 19:25,20 mins,"Scallops, Butter, Breadcrumbs, Garlic",2 servings,$28.00,320 kcal,18g,14g,28g,110mg,1g,4.8,98
+91,Tuna Melt,02-04-2024 13:40,15 mins,"Tuna, Mayo, Cheddar, Sourdough",1 serving,$10.50,520 kcal,32g,34g,32g,75mg,2g,4.3,167
+92,Pork Belly Ramen,28-02-2023 08:20,360 mins,"Pork Belly, Broth, Ramen, Soy Egg",2 servings,$20.00,850 kcal,52g,68g,36g,220mg,3g,4.9,342
+93,Vegetable Gyoza,12-06-2023 17:55,40 mins,"Cabbage, Ginger, Garlic, Wonton",3 servings,$14.00,290 kcal,12g,42g,8g,0mg,4g,4.6,112
+94,Aloo Gobi,18-10-2023 18:35,35 mins,"Potatoes, Cauliflower, Turmeric, Cumin",3 servings,$12.50,260 kcal,10g,38g,6g,0mg,9g,4.5,145
+95,Chicken Satay,22-01-2024 19:10,30 mins,"Chicken, Peanut Butter, Coconut Milk",3 servings,$15.50,390 kcal,24g,14g,36g,95mg,2g,4.7,178
+96,Couscous Salad,10-03-2023 14:15,15 mins,"Couscous, Parsley, Tomato, Cucumber",4 servings,$11.00,310 kcal,14g,44g,12g,0mg,7g,4.4,123
+97,Gazpacho,05-09-2023 12:30,20 mins,"Tomato, Cucumber, Bell Pepper, Vinegar",4 servings,$12.00,160 kcal,8g,22g,4g,0mg,6g,4.3,98
+98,Clams Vongole,05-12-2023 19:45,25 mins,"Linguine, Clams, Garlic, White Wine",2 servings,$21.00,520 kcal,18g,62g,28g,105mg,3g,4.8,167
+99,Teriyaki Salmon,18-03-2024 19:50,20 mins,"Salmon, Teriyaki Sauce, Rice, Broccoli",1 serving,$20.00,540 kcal,26g,52g,36g,105mg,4g,4.9,312
+100,Margherita Pizza,22-05-2023 17:40,45 mins,"Dough, Mozzarella, Tomato, Basil",2 servings,$13.00,780 kcal,28g,95g,28g,45mg,4g,4.8,567
+101,Quinoa Veggie Bowl,22-07-2023 12:45,25 mins,"Quinoa, Kale, Chickpeas, Lemon",2 servings,$12.50,380 kcal,12g,54g,15g,0mg,10g,4.8,124
+102,Grilled Garlic Salmon,15-08-2023 19:20,20 mins,"Salmon, Garlic, Asparagus, Olive Oil",1 serving,$18.00,420 kcal,28g,5g,36g,95mg,3g,4.9,89
+103,Classic Beef Tacos,02-11-2023 18:35,30 mins,"Ground Beef, Taco Shells, Lettuce, Cheese",3 servings,$15.00,520 kcal,30g,38g,24g,80mg,4g,4.5,210
+104,Creamy Mushroom Pasta,12-01-2024 19:50,15 mins,"Penne, Mushrooms, Heavy Cream, Parmesan",2 servings,$11.00,610 kcal,34g,62g,14g,45mg,3g,4.2,56
+105,Avocado Toast with Egg,05-03-2023 09:15,10 mins,"Sourdough, Avocado, Egg, Chili Flakes",1 serving,$8.50,310 kcal,18g,28g,12g,185mg,7g,4.7,342
+106,Chicken Stir Fry,15-09-2023 18:40,20 mins,"Chicken Breast, Broccoli, Soy Sauce, Ginger",2 servings,$14.00,340 kcal,9g,12g,48g,110mg,4g,4.6,175
+107,Lentil Soup,01-12-2023 17:30,45 mins,"Green Lentils, Carrots, Onion, Cumin",4 servings,$9.00,230 kcal,2g,35g,16g,0mg,12g,4.4,98
+108,Berry Smoothie Bowl,10-04-2024 08:25,5 mins,"Berries, Greek Yogurt, Granola, Honey",1 serving,$7.00,290 kcal,5g,45g,18g,15mg,8g,4.3,67
+109,Margherita Pizza Deluxe,18-02-2023 17:50,40 mins,"Flour, Mozzarella, Tomato Sauce, Basil",2 servings,$10.50,780 kcal,22g,95g,28g,40mg,4g,4.8,512
+110,Shrimp Scampi,25-06-2023 19:15,15 mins,"Shrimp, Butter, Lemon, Parsley, Linguine",2 servings,$19.50,450 kcal,18g,42g,29g,215mg,2g,4.6,134
+111,Sweet Potato Curry,30-10-2023 18:45,35 mins,"Sweet Potato, Coconut Milk, Spinach, Curry Paste",3 servings,$13.00,320 kcal,14g,44g,6g,0mg,9g,4.5,88
+112,Turkey Club Sandwich,05-01-2024 12:20,10 mins,"Turkey Breast, Bacon, Tomato, Mayo, Bread",1 serving,$9.50,480 kcal,24g,36g,32g,75mg,3g,4.3,112
+113,Mediterranean Salad,12-03-2023 13:10,15 mins,"Cucumber, Feta, Olives, Tomatoes, Chickpeas",2 servings,$11.00,280 kcal,16g,24g,10g,25mg,6g,4.7,201
+114,Honey Glazed Pork Chops,25-09-2023 19:40,25 mins,"Pork Chops, Honey, Soy Sauce, Garlic",2 servings,$16.00,410 kcal,19g,18g,38g,90mg,0g,4.4,45
+115,Tofu Poke Bowl,10-12-2023 13:25,15 mins,"Tofu, Edamame, Rice, Carrots, Seaweed",1 serving,$13.50,390 kcal,12g,52g,20g,0mg,8g,4.6,77
+116,Beef Stroganoff,20-04-2024 19:30,40 mins,"Beef Strips, Mushrooms, Sour Cream, Egg Noodles",4 servings,$22.00,590 kcal,32g,45g,34g,110mg,2g,4.5,156
+117,Thai Green Curry,05-02-2023 19:15,30 mins,"Chicken, Bamboo Shoots, Coconut Milk, Green Curry Paste",3 servings,$17.50,440 kcal,26g,18g,28g,65mg,3g,4.7,203
+118,Caesar Salad,15-07-2023 12:40,12 mins,"Romaine Lettuce, Croutons, Parmesan, Caesar Dressing",1 serving,$10.00,310 kcal,22g,15g,8g,30mg,4g,4.2,341
+119,Eggplant Parmesan,22-11-2023 18:25,50 mins,"Eggplant, Marinara, Mozzarella, Breadcrumbs",4 servings,$14.00,380 kcal,18g,42g,14g,35mg,7g,4.4,82
+120,Lemon Herb Roast Chicken,15-02-2024 15:45,75 mins,"Whole Chicken, Rosemary, Thyme, Lemon, Garlic",6 servings,$25.00,520 kcal,28g,4g,52g,145mg,1g,4.9,289
+121,Spinach Pesto Pasta,18-04-2023 19:10,15 mins,"Pasta, Spinach, Pine Nuts, Olive Oil",2 servings,$13.00,480 kcal,24g,55g,14g,0mg,5g,4.3,167
+122,Fish Tacos,30-08-2023 18:35,25 mins,"Cod Fillet, Corn Tortillas, Cabbage Slaw, Lime",2 servings,$16.50,360 kcal,14g,32g,24g,55mg,3g,4.6,198
+123,Vegetable Lasagna,12-12-2023 17:50,60 mins,"Lasagna Sheets, Spinach, Ricotta, Marinara",6 servings,$18.00,410 kcal,16g,48g,20g,45mg,5g,4.5,143
+124,BBQ Pulled Pork,22-03-2024 08:30,480 mins,"Pork Shoulder, BBQ Sauce, Buns, Coleslaw",8 servings,$28.00,650 kcal,35g,42g,38g,120mg,2g,4.8,412
+125,Lamb Gyros,18-05-2023 13:40,20 mins,"Lamb, Pita Bread, Tzatziki, Red Onion",2 servings,$14.50,580 kcal,28g,44g,32g,85mg,3g,4.7,225
+126,Mushroom Risotto,15-10-2023 18:55,45 mins,"Arborio Rice, Mushrooms, Broth, Butter",3 servings,$16.00,420 kcal,15g,62g,8g,20mg,4g,4.4,94
+127,Chicken Quesadilla,25-01-2024 12:30,15 mins,"Chicken, Tortilla, Cheddar Cheese, Salsa",1 serving,$9.00,510 kcal,26g,38g,30g,80mg,2g,4.5,312
+128,Falafel Wrap,12-02-2023 12:15,15 mins,"Falafel, Hummus, Tahini, Cucumber, Pita",1 serving,$11.50,460 kcal,18g,58g,14g,0mg,9g,4.6,178
+129,Lobster Roll,25-06-2023 13:50,20 mins,"Lobster Meat, Mayo, Butter, Brioche Bun",1 serving,$28.00,540 kcal,32g,30g,28g,190mg,1g,4.9,132
+130,Butternut Squash Soup,20-11-2023 14:25,40 mins,"Butternut Squash, Onion, Stock, Cream",4 servings,$10.50,210 kcal,9g,32g,4g,15mg,6g,4.7,86
+131,Bibimbap,15-02-2024 19:15,45 mins,"Rice, Beef, Egg, Carrots, Spinach, Gochujang",1 serving,$15.50,550 kcal,22g,65g,24g,185mg,5g,4.8,142
+132,Chicken Tikka Masala,12-04-2023 20:00,50 mins,"Chicken, Tomato Sauce, Cream, Garam Masala",3 servings,$18.00,510 kcal,30g,18g,34g,95mg,2g,4.9,321
+133,Spaghetti Carbonara,18-08-2023 19:25,20 mins,"Spaghetti, Eggs, Guanciale, Pecorino",2 servings,$14.00,620 kcal,38g,52g,18g,220mg,2g,4.6,289
+134,Pad Thai Shrimp,05-12-2023 19:40,30 mins,"Rice Noodles, Shrimp, Peanuts, Bean Sprouts",2 servings,$16.00,480 kcal,18g,68g,22g,140mg,4g,4.7,215
+135,Classic Beef Burger,05-04-2024 13:15,20 mins,"Ground Beef, Brioche Bun, Lettuce, Tomato",1 serving,$12.00,650 kcal,42g,35g,30g,110mg,2g,4.4,456
+136,Caprese Salad,25-01-2023 11:20,10 mins,"Mozzarella, Tomatoes, Basil, Balsamic",2 servings,$11.50,290 kcal,22g,8g,14g,40mg,2g,4.5,92
+137,Ratatouille,12-06-2023 17:15,60 mins,"Zucchini, Eggplant, Bell Peppers, Tomato",4 servings,$13.00,180 kcal,7g,24g,4g,0mg,8g,4.3,67
+138,California Sushi Rolls,18-10-2023 15:40,45 mins,"Rice, Crab, Avocado, Seaweed, Cucumber",2 servings,$19.00,320 kcal,8g,48g,12g,30mg,4g,4.8,183
+139,Traditional Beef Pho,22-01-2024 08:30,360 mins,"Beef Bones, Rice Noodles, Basil, Ginger",4 servings,$14.50,450 kcal,12g,62g,28g,65mg,3g,4.9,275
+140,Chicken Parmesan,05-03-2023 19:05,45 mins,"Chicken Breast, Breadcrumbs, Marinara, Mozzarella",2 servings,$17.00,580 kcal,28g,42g,44g,115mg,4g,4.7,154
+141,Chili Con Carne,02-08-2023 15:30,90 mins,"Beef, Kidney Beans, Tomatoes, Chili Powder",6 servings,$15.00,420 kcal,18g,36g,32g,70mg,12g,4.6,231
+142,Shepherd's Pie,28-12-2023 18:40,60 mins,"Ground Lamb, Mashed Potatoes, Peas, Carrots",4 servings,$18.50,540 kcal,32g,38g,28g,95mg,6g,4.5,128
+143,Clam Chowder,15-03-2024 14:10,40 mins,"Clams, Potatoes, Heavy Cream, Celery",4 servings,$14.00,480 kcal,34g,28g,18g,120mg,2g,4.4,95
+144,General Tso Chicken,12-02-2023 19:35,35 mins,"Chicken, Cornstarch, Sugar, Soy Sauce, Ginger",2 servings,$15.50,610 kcal,28g,54g,32g,105mg,2g,4.3,212
+145,Minestrone Soup,05-07-2023 19:00,50 mins,"Pasta, Beans, Celery, Carrots, Tomato",4 servings,$11.00,240 kcal,4g,38g,10g,0mg,9g,4.2,78
+146,Bang Bang Shrimp,15-11-2023 17:20,20 mins,"Shrimp, Mayo, Sweet Chili Sauce, Sriracha",2 servings,$18.50,430 kcal,26g,24g,22g,185mg,1g,4.7,143
+147,Stuffed Bell Peppers,18-02-2024 18:30,50 mins,"Peppers, Rice, Ground Turkey, Tomato Sauce",4 servings,$14.00,310 kcal,12g,32g,24g,65mg,6g,4.5,89
+148,French Onion Soup,10-04-2023 17:50,90 mins,"Onions, Beef Broth, Gruyere Cheese, Baguette",4 servings,$12.50,350 kcal,18g,28g,14g,45mg,4g,4.8,167
+149,Cobb Salad,02-09-2023 13:20,20 mins,"Chicken, Avocado, Blue Cheese, Egg, Bacon",1 serving,$14.00,520 kcal,38g,12g,36g,240mg,5g,4.6,204
+150,Zucchini Fritters,15-12-2023 11:15,25 mins,"Zucchini, Flour, Feta, Scallions, Egg",3 servings,$10.50,260 kcal,14g,24g,10g,75mg,4g,4.4,56
+151,Hummus & Pita,28-03-2024 12:40,10 mins,"Chickpeas, Tahini, Garlic, Olive Oil, Pita",2 servings,$8.00,380 kcal,18g,45g,12g,0mg,10g,4.5,134
+152,Pan-Seared Scallops,18-01-2023 19:25,15 mins,"Scallops, Butter, Lemon, Garlic",2 servings,$26.00,290 kcal,16g,6g,32g,95mg,0g,4.9,78
+153,Pulled Chicken Sliders,22-05-2023 13:30,30 mins,"Chicken, BBQ Sauce, Slaw, Mini Buns",4 servings,$16.00,440 kcal,18g,38g,32g,85mg,2g,4.3,112
+154,Cauliflower Wings,12-10-2023 16:45,35 mins,"Cauliflower, Buffalo Sauce, Flour, Spices",2 servings,$12.00,240 kcal,10g,32g,6g,0mg,7g,4.6,189
+155,Steak Frites,30-01-2024 19:40,25 mins,"Sirloin Steak, Potatoes, Garlic Butter",1 serving,$24.00,720 kcal,45g,42g,48g,155mg,4g,4.8,267
+156,Miso Soup,18-03-2023 13:15,15 mins,"Tofu, Miso Paste, Seaweed, Green Onion",2 servings,$6.50,120 kcal,4g,12g,8g,0mg,3g,4.4,85
+157,Tuna Melt Sandwich,15-08-2023 12:45,15 mins,"Tuna, Mayo, Cheddar, Bread, Celery",1 serving,$9.50,490 kcal,28g,32g,28g,65mg,2g,4.2,145
+158,Pork Belly Ramen,25-11-2023 08:30,360 mins,"Pork Belly, Ramen Noodles, Egg, Broth",2 servings,$18.50,820 kcal,48g,65g,34g,210mg,3g,4.9,312
+159,Vegetable Gyoza,28-02-2024 17:55,40 mins,"Cabbage, Carrots, Mushroom, Wonton Wrapper",3 servings,$13.00,280 kcal,10g,38g,8g,0mg,4g,4.5,92
+160,Aloo Gobi,02-05-2025 18:35,35 mins,"Potatoes, Cauliflower, Turmeric, Cumin",3 servings,$11.50,240 kcal,9g,36g,6g,0mg,8g,4.6,104
+161,Paella Valanciana,18-09-2025 17:25,60 mins,"Rice, Saffron, Shrimp, Mussels, Chicken",4 servings,$28.00,580 kcal,22g,64g,36g,165mg,5g,4.7,156
+162,Chicken Enchiladas,05-12-2025 18:50,50 mins,"Chicken, Tortillas, Red Sauce, Cheese",4 servings,$17.00,520 kcal,28g,42g,30g,85mg,4g,4.5,210
+163,Gnocchi with Sage Butter,12-03-2025 19:05,20 mins,"Potato Gnocchi, Butter, Sage, Parmesan",2 servings,$14.50,450 kcal,22g,54g,10g,55mg,3g,4.4,88
+164,Korean Fried Chicken,28-02-2025 19:55,40 mins,"Chicken Wings, Gochujang, Soy Sauce, Honey",2 servings,$16.00,680 kcal,38g,48g,32g,125mg,1g,4.8,245
+165,Lentil Dal,22-07-2025 17:40,35 mins,"Red Lentils, Coconut Milk, Ginger, Garlic",4 servings,$10.00,280 kcal,10g,42g,14g,0mg,12g,4.6,132
+166,Beef Wellington,10-11-2025 15:30,120 mins,"Beef Tenderloin, Puff Pastry, Mushrooms",4 servings,$45.00,890 kcal,58g,42g,54g,185mg,3g,4.9,82
+167,Banh Mi,28-01-2025 13:15,15 mins,"Pork, Baguette, Pickled Carrots, Cilantro, Mayo",1 serving,$10.50,540 kcal,24g,58g,26g,75mg,4g,4.7,198
+168,Calamari Fritti,02-04-2025 17:30,20 mins,"Squid, Flour, Lemon, Marinara Sauce",2 servings,$15.00,410 kcal,22g,32g,24g,230mg,1g,4.5,115
+169,Shakshuka,15-08-2025 12:20,30 mins,"Eggs, Tomatoes, Peppers, Onions, Feta",2 servings,$12.00,320 kcal,18g,18g,16g,370mg,5g,4.8,210
+170,Honey Walnut Shrimp,01-12-2025 19:40,25 mins,"Shrimp, Walnuts, Honey, Condensed Milk",2 servings,$19.00,560 kcal,34g,42g,24g,175mg,3g,4.6,142
+171,Turkey Chili,25-03-2025 15:45,60 mins,"Turkey, Corn, Black Beans, Chili Powder",6 servings,$14.00,310 kcal,8g,34g,28g,55mg,10g,4.4,96
+172,Falafel Salad,12-01-2025 13:10,15 mins,"Falafel, Cucumber, Tomato, Tahini, Greens",1 serving,$12.50,380 kcal,18g,42g,12g,0mg,9g,4.5,85
+173,Duck L'Orange,22-06-2025 17:45,90 mins,"Duck Breast, Orange Juice, Honey, Vinegar",2 servings,$32.00,640 kcal,42g,24g,38g,145mg,1g,4.8,64
+174,Lobster Bisque,30-10-2025 14:15,60 mins,"Lobster, Heavy Cream, Sherry, Onion",4 servings,$22.00,420 kcal,32g,18g,16g,165mg,1g,4.7,112
+175,Ahi Tuna Poke Bowl,05-01-2025 13:10,15 mins,"Ahi Tuna, Sushi Rice, Edamame, Soy Sauce",1 serving,$18.50,480 kcal,14g,58g,32g,45mg,5g,4.9,203
+176,Broccoli Cheddar Soup,25-03-2025 14:25,30 mins,"Broccoli, Cheddar, Broth, Cream",4 servings,$12.00,340 kcal,24g,18g,14g,65mg,4g,4.3,178
+177,Chicken Pot Pie,05-08-2025 17:45,75 mins,"Chicken, Peas, Carrots, Pie Crust",6 servings,$18.00,520 kcal,32g,42g,24g,85mg,3g,4.5,145
+178,Egg Drop Soup,10-12-2025 18:15,15 mins,"Eggs, Chicken Broth, Cornstarch, Ginger",2 servings,$7.50,140 kcal,6g,12g,10g,185mg,1g,4.2,92
+179,Garlic Rosemary Lamb Chops,22-03-2025 19:20,20 mins,"Lamb Chops, Garlic, Rosemary, Butter",2 servings,$28.00,510 kcal,38g,2g,42g,125mg,0g,4.8,110
+180,Quinoa Stuffed Mushrooms,18-02-2025 18:30,30 mins,"Mushrooms, Quinoa, Parmesan, Garlic",4 servings,$13.50,220 kcal,12g,22g,10g,15mg,6g,4.4,76
+181,Thai Beef Salad,15-07-2025 13:15,25 mins,"Flank Steak, Lime, Fish Sauce, Mint, Greens",1 serving,$16.50,380 kcal,18g,14g,36g,85mg,3g,4.7,134
+182,Chicken Kiev,20-11-2025 19:05,45 mins,"Chicken Breast, Butter, Garlic, Breadcrumbs",2 servings,$17.50,590 kcal,42g,24g,38g,155mg,1g,4.6,89
+183,Pesto Gnocchi,15-02-2025 19:10,15 mins,"Gnocchi, Basil Pesto, Pine Nuts, Parmesan",2 servings,$14.00,520 kcal,28g,54g,12g,20mg,4g,4.4,121
+184,Mushroom Tacos,12-04-2025 18:40,20 mins,"Mushrooms, Corn Tortillas, Avocado, Onion",3 servings,$11.00,290 kcal,14g,38g,8g,0mg,9g,4.5,95
+185,Crab Cakes,22-09-2025 17:50,30 mins,"Lump Crab, Mayo, Breadcrumbs, Old Bay",2 servings,$24.00,380 kcal,22g,18g,28g,145mg,2g,4.8,156
+186,Oxtail Stew,25-12-2025 08:30,240 mins,"Oxtails, Carrots, Potatoes, Red Wine",4 servings,$26.00,680 kcal,45g,32g,42g,120mg,4g,4.9,132
+187,Cottage Pie,30-03-2025 18:40,60 mins,"Ground Beef, Mashed Potatoes, Peas",4 servings,$16.50,510 kcal,28g,36g,28g,85mg,5g,4.4,118
+188,Lemon Poppy Seed Pancakes,25-01-2025 09:15,20 mins,"Flour, Poppy Seeds, Lemon, Milk, Eggs",2 servings,$9.00,420 kcal,14g,62g,10g,95mg,2g,4.6,210
+189,Shrimp Po' Boy,30-05-2025 13:30,25 mins,"Fried Shrimp, French Roll, Lettuce, Remoulade",1 serving,$15.50,610 kcal,34g,52g,26g,175mg,3g,4.5,167
+190,Gazpacho,14-09-2025 11:22,20 mins,"Tomatoes, Cucumber, Bell Pepper, Vinegar",4 servings,$11.00,140 kcal,6g,18g,4g,0mg,5g,4.3,84
+191,Chicken Satay,03-11-2025 16:45,30 mins,"Chicken Strips, Peanut Sauce, Turmeric",3 servings,$14.50,380 kcal,22g,12g,32g,85mg,1g,4.7,143
+192,Pork Schnitzel,19-01-2025 09:12,30 mins,"Pork Loin, Flour, Egg, Breadcrumbs",2 servings,$16.00,520 kcal,28g,34g,36g,110mg,2g,4.5,126
+193,Spinach Artichoke Dip,28-05-2025 21:33,25 mins,"Spinach, Artichokes, Cream Cheese, Parmesan",6 servings,$13.00,240 kcal,18g,12g,8g,45mg,4g,4.7,289
+194,Couscous Salad,05-08-2025 14:05,15 mins,"Couscous, Parsley, Cucumber, Lemon, Feta",4 servings,$12.00,290 kcal,12g,42g,10g,15mg,6g,4.4,105
+195,Vegetable Fried Rice,22-03-2025 18:19,15 mins,"Rice, Peas, Carrots, Soy Sauce, Egg",2 servings,$9.50,320 kcal,8g,54g,10g,95mg,4g,4.2,312
+196,Chicken Alfredo Fettuccine,10-10-2025 12:44,30 mins,"Fettuccine, Chicken, Heavy Cream, Parmesan",2 servings,$16.50,840 kcal,48g,68g,36g,145mg,3g,4.7,421
+197,Clams Vongole,14-02-2025 20:02,25 mins,"Linguine, Clams, White Wine, Garlic",2 servings,$19.00,490 kcal,16g,58g,24g,95mg,2g,4.8,154
+198,Teriyaki Salmon Bowl,30-06-2025 08:51,20 mins,"Salmon, Teriyaki Sauce, Broccoli, Rice",1 serving,$18.00,510 kcal,22g,48g,34g,95mg,3g,4.9,267
+199,Beef Burrito,25-11-2025 19:30,20 mins,"Beef, Rice, Beans, Cheese, Tortilla",1 serving,$11.50,720 kcal,32g,74g,38g,95mg,8g,4.6,345
+200,Greek Salad,30-04-2025 11:15,15 mins,"Tomatoes, Olives, Feta, Cucumber, Oregano",2 servings,$11.00,260 kcal,18g,12g,8g,30mg,4g,4.5,189
